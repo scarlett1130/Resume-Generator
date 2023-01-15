@@ -508,16 +508,16 @@ function Homepage() {
   return (
     <div id="main">
       <header className="header">
-        <h2>Hash/Hub</h2>
+        <h2>Vatler Lett</h2>
         <h1>
           📄<span>Resume Maker </span>{" "}
         </h1>
-        <div className="right">
+        {/* <div className="right">
           <a href="https://github.com/vedant-jain03/Resume-Maker">Contribute</a>
           <a href="https://github.com/vedant-jain03/Resume-Maker">
             Give us star
           </a>
-        </div>
+        </div> */}
       </header>
       <main className="maincomponent">
         <div className="left">
