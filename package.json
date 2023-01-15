@@ -1,6 +1,6 @@
 {
   "name": "resume_maker",
-  "homepage": "https://vedant-jain03.github.io/Resume-Maker",
+  "homepage": "https://scarlett1130.github.io/Resume-Generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
