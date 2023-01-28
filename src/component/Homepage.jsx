@@ -508,7 +508,7 @@ function Homepage() {
   return (
     <div id="main">
       <header className="header">
-        <h2>Vatler Lett</h2>
+        <h2>💪AV-WebDev💪</h2>
         <h1>
           📄<span>Resume Maker </span>{" "}
         </h1>
